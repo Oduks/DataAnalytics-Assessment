@@ -20,7 +20,7 @@ README.md: Project documentation (this file).
 
 ## How to Use
 Clone this repository:  
-git clone <repository-link>  
+git clone <[DataAnalytics-Assessment](https://github.com/Oduks/DataAnalytics-Assessment)>  
 Set up MySQL Database: Ensure you have the following tables:  
   -**users_customuse**r: Customer information.  
   -**savings_savingsaccount**: Records of deposits.  
